@@ -1,6 +1,6 @@
 'use strict';
 
-var htmlMiner = require('../lib/');
+var htmlMiner = require('../lib');
 
 var chai = require('chai');
 var assert = chai.assert;
