@@ -211,7 +211,7 @@ When selector is an `object`, you can use _special keys_:
             _each_: '.articles .article',
             _eachId_: function(arg) {
                 return arg.$scope.data('id');
-            }
+            },
             title: 'h2',
             content: 'p',
         }
